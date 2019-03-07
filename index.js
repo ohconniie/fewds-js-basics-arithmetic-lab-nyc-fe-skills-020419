@@ -13,6 +13,6 @@ let randomNumber = Math.random() * (20 - 0) + 0;
 
 const randomInteger = Math.floor(randomNumber);
 
-let randomUserID = randomInteger * (1000000020 - 1000000001) + 1000000000;
+let randomUserID = randomInteger + 1000000000;
 
 // Write your code below this line!
