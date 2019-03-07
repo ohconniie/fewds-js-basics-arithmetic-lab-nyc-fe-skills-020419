@@ -11,6 +11,6 @@ let ageIsValid = Number.isInteger(currentAge);
 
 let randomNumber = Math.random() * (20 - 0) + 0;
 
-const flooredRandomInteger = Math.floor(randomNumber);
+const randomInteger = Math.floor(randomNumber);
 
 // Write your code below this line!
