@@ -6,7 +6,7 @@ Variables defined in the test suite:
 You should NOT try to redefine any of the above variables.
 */
 
-let newID = `${oldID}+1`;
+let newID = `1000000000 ${oldID} 1`;
 
 
 // Write your code below this line!
